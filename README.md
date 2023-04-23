@@ -23,4 +23,4 @@
 
 # For recreating this landing page for practise purpose follow this link below:
 
-    This is the link for the design [Figma link](https://www.figma.com/file/1nayvEhzAOiMxeIy6RlqDB/Travel-Landing-Page-(Community)?node-id=1%3A2&t=rxGfXwPzwpabmeU0-1)
+This is the link for the design [Figma link](https://www.figma.com/file/1nayvEhzAOiMxeIy6RlqDB/Travel-Landing-Page-(Community)?node-id=1%3A2&t=rxGfXwPzwpabmeU0-1)
