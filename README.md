@@ -9,7 +9,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./images/bootstrap-travell-business-landing-page.png">
   <source media="(prefers-color-scheme: light)" srcset="./images/bootstrap-travell-business-landing-page.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/bootstrap-travell-business-landing-page.png">
-</picture>boo
+</picture>
 
 #Steps to follow for running this project on your localhost.
 
@@ -20,4 +20,3 @@
 4. then press go live after opening the code folder to the vs code.
 5. make the changes to the code it will reflect to the localhost
 
-v
