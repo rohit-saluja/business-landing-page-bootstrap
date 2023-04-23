@@ -11,7 +11,8 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./images/bootstrap-travell-business-landing-page.png">
 </picture>
 
-#Steps to follow for running this project on your localhost.
+&nbsp;
+# Steps to follow for running this project on your localhost.
 
 1. clone the repository in your system.
    `git clone https://github.com/rohit-saluja/business-landing-page-bootstrap.git`
