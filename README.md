@@ -21,3 +21,6 @@
 4. then press go live after opening the code folder to the vs code.
 5. make the changes to the code it will reflect to the localhost
 
+# For recreating this landing page for practise purpose follow this link below:
+
+    This is the link for the design [Figma link](https://www.figma.com/file/1nayvEhzAOiMxeIy6RlqDB/Travel-Landing-Page-(Community)?node-id=1%3A2&t=rxGfXwPzwpabmeU0-1)
