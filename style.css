@@ -40,3 +40,13 @@ body {
 .form-element {
   min-width: 217px;
 }
+
+.form-element.search-icon{
+  background: #884AFF;
+  min-width: 31px;
+  padding: 13px;
+  border-radius: 9px;
+}
+.form-element.search-icon i{
+  color:#ffffff;
+}
