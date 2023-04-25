@@ -12,3 +12,28 @@ body {
   display: flex;
   width: 120px;
 }
+
+.form.container-fluid {
+  margin-top: 154px;
+}
+.container-fluid .search-form {
+  margin: auto;
+  max-width: 50%;
+  background: #f1f1f1;
+}
+.container-fluid .inner-form-elements {
+  background: #ffffff;
+}
+.form-element .fa-solid {
+  color: #884aff;
+  font-size: 20px;
+}
+.form-element .form-text-custom p {
+  color: rgba(81, 77, 89, 0.8);
+  font-size: 16px;
+  font-weight: 500;
+}
+.form-element .form-text-custom .text {
+  font-size: 24px;
+  font-weight: 500;
+}
