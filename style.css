@@ -18,7 +18,7 @@ body {
 }
 .form .search-form {
   margin: auto;
-  max-width: 50%;
+  width: 760px;
   background: #f1f1f1;
 }
 .form .inner-form-elements {
@@ -38,15 +38,14 @@ body {
   font-weight: 500;
 }
 .form-element {
-  min-width: 217px;
 }
 
-.form-element.search-icon{
-  background: #884AFF;
+.form-element.search-icon {
+  background: #884aff;
   min-width: 31px;
   padding: 13px;
   border-radius: 9px;
 }
-.form-element.search-icon i{
-  color:#ffffff;
+.form-element.search-icon i {
+  color: #ffffff;
 }
