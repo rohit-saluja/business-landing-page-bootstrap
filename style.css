@@ -14,7 +14,7 @@ body {
 }
 
 .form {
-  margin-top: 154px;
+  margin-top: 274px;
 }
 .form .search-form {
   margin: auto;
@@ -54,4 +54,10 @@ body {
   .form .search-form {
     width: 400px;
   }
+}
+.hero-image{
+  top:0;
+  left:50%;
+  transform:translate(-50%);
+  z-index:-1;
 }
