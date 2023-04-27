@@ -49,3 +49,9 @@ body {
 .form-element.search-icon i {
   color: #ffffff;
 }
+
+@media only screen and (max-width: 768px) {
+  .form .search-form {
+    width: 400px;
+  }
+}
