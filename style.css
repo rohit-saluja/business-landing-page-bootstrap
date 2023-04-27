@@ -69,3 +69,17 @@ body {
   top: 245px;
   left: -20px;
 }
+.direction-header {
+  top: 124px;
+  right: -18px;
+  z-index: -1;
+}
+.binocular-header {
+  top: 420px;
+  left: 84px;
+  z-index: -1;
+}
+.cup-header {
+  top: 430px;
+  left: 810px;
+}
