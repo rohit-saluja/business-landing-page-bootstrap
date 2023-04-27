@@ -55,9 +55,13 @@ body {
     width: 400px;
   }
 }
-.hero-image{
-  top:0;
-  left:50%;
-  transform:translate(-50%);
-  z-index:-1;
+.hero-image {
+  top: 0;
+  left: 50%;
+  transform: translate(-50%);
+  z-index: -1;
+}
+.airplane-header {
+  top: 75px;
+  left: 100px;
 }
