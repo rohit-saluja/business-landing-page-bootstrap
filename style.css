@@ -95,7 +95,20 @@ body {
   font-weight: 600;
   line-height: 33px;
 }
-
+.features h1 {
+  font-size: 50px;
+  font-weight: 600;
+  color: #514d59;
+}
+.features {
+  color: #514d59;
+}
+.features a {
+  text-decoration: none;
+  color: #7000ff;
+  font-size: 18px;
+  font-weight: 600;
+}
 @media only screen and (max-width: 768px) {
   .form .search-form {
     width: 400px;
@@ -105,6 +118,9 @@ body {
     margin-bottom: 70px;
   }
   .goods .header {
+    font-size: 42px;
+  }
+  .features h1 {
     font-size: 42px;
   }
 }
