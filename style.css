@@ -155,3 +155,30 @@ body {
 .carousal .dots .dot.lighter {
   background: #ededed;
 }
+.carousal .person-1 {
+  right: 20px;
+  top: -60px;
+}
+.carousal .person-2 {
+  right: 160px;
+  top: 110px;
+}
+.carousal .person-3 {
+  right: 0;
+  top: 300px;
+}
+.carousal .person-4 {
+  left: 73px;
+  top: -45px;
+}
+.carousal .person-5 {
+  left: 0;
+  top: 27px;
+}
+.carousal .person-6 {
+  left: 138px;
+  top: 77px;
+}
+.large-mb {
+  margin-bottom: 159px !important;
+}
