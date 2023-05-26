@@ -125,7 +125,7 @@ body {
 
 .carousal {
   color: #514d59;
-  margin-bottom: 100px;
+  margin-bottom: 198px;
 }
 .carousal .header {
   font-weight: 600;
@@ -185,21 +185,29 @@ body {
   background-color: #333333;
   color: #ffffff;
   padding: 28px;
-  .footer-left {
-    flex: 0 1 476px;
-  }
-  .footer-right {
-    gap: 30px;
-  }
-  .footer-left,
-  .footer-right {
-    .footer-header {
-      font-weight: 600;
-      font-size: 24px;
-    }
-  }
+}
+.footer .footer-left {
+  flex: 0 1 476px;
+}
+.footer .footer-left .footer-logo {
+  margin-bottom: 20px;
+}
+.footer .footer-right {
+  gap: 40px;
+}
+.footer .footer-left,
+.footer-right .footer-header {
+  font-weight: 600;
+  margin-bottom: 15px;
+  font-size: 24px;
 }
 .custom-container {
   max-width: 1836px;
   margin: auto;
+}
+.social-icons {
+  gap: 10px;
+}
+.footer .footer-item li {
+  margin-bottom: 5px;
 }
