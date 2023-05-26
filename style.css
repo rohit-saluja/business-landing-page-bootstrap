@@ -38,8 +38,6 @@ body {
   font-size: 24px;
   font-weight: 500;
 }
-.form-element {
-}
 
 .form-element.search-icon {
   background: #884aff;
@@ -127,6 +125,7 @@ body {
 
 .carousal {
   color: #514d59;
+  margin-bottom: 100px;
 }
 .carousal .header {
   font-weight: 600;
@@ -185,6 +184,22 @@ body {
 .footer {
   background-color: #333333;
   color: #ffffff;
+  padding: 28px;
   .footer-left {
+    flex: 0 1 476px;
   }
+  .footer-right {
+    gap: 30px;
+  }
+  .footer-left,
+  .footer-right {
+    .footer-header {
+      font-weight: 600;
+      font-size: 24px;
+    }
+  }
+}
+.custom-container {
+  max-width: 1836px;
+  margin: auto;
 }
